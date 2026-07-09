@@ -179,3 +179,66 @@
     height:44px;
   }
 }
+
+
+/* v3.4 Feature Panel Width Fix */
+.hero__grid{
+  grid-template-columns:minmax(640px, 1fr) 520px;
+  gap:72px;
+}
+.hero__feature-panel{
+  width:100%;
+  max-width:520px;
+  justify-self:end;
+  padding:30px 42px;
+}
+.hero-feature{
+  grid-template-columns:64px minmax(0,1fr);
+  gap:22px;
+}
+.hero-feature strong{
+  white-space:nowrap;
+  font-size:1.08rem;
+}
+.hero-feature p{
+  white-space:nowrap;
+  font-size:.94rem;
+}
+@media(max-width:1280px){
+  .hero__grid{
+    grid-template-columns:minmax(580px, 1fr) 480px;
+    gap:56px;
+  }
+  .hero__feature-panel{
+    max-width:480px;
+    padding:28px 34px;
+  }
+}
+@media(max-width:1120px){
+  .hero__grid{
+    grid-template-columns:1fr;
+    gap:52px;
+  }
+  .hero__feature-panel{
+    max-width:620px;
+    justify-self:start;
+  }
+}
+@media(max-width:560px){
+  .hero__feature-panel{
+    max-width:100%;
+    padding:20px 22px;
+  }
+  .hero-feature{
+    grid-template-columns:46px minmax(0,1fr);
+    gap:14px;
+  }
+  .hero-feature strong{
+    white-space:normal;
+    font-size:1rem;
+  }
+  .hero-feature p{
+    white-space:normal;
+    font-size:.9rem;
+  }
+}
