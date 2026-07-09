@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v3.6 Hero No Overlap Fix
+- Heroの左見出しと右パネルの干渉を修正
+- PC幅では2カラム、中間幅では縦積みに切り替え
+- ZIP名とフォルダ名を統一
+
 ## v3.5 Feature Panel Beauty Fix
 - 右側サービスパネルの見た目を改善
 - 画面幅が狭い場合は2列または1列カード表示へ切り替え
