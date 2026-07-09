@@ -1,4 +1,4 @@
-# Tomo Portfolio v2.0
+# Tomo Portfolio v3.0
 
 ■ 保存先
 Tomo-Studio/
@@ -11,19 +11,10 @@ Tomo-Studio/
 必要
 
 ■ リポジトリ名
-tomo-portfolio
+Tomo-Portfolio
 
 ■ 公開URL
-https://tmy-dot.github.io/tomo-portfolio/
+https://tmy-dot.github.io/Tomo-Portfolio/
 
-■ 追加内容
-- Restaurant
-- HairSalon
-- Clinic
-- Cafe
-- Corporate
-- Landing Page
-- Services
-- Flow
-- Price
-- Contact
+■ 更新内容
+Hero改善 / About追加 / Works 6件 / GitHubリンク / Skills / Flow / Price / FAQ / Contact / SEO
