@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v3.5 Feature Panel Beauty Fix
+- 右側サービスパネルの見た目を改善
+- 画面幅が狭い場合は2列または1列カード表示へ切り替え
+
 ## v3.4 Feature Panel Fix
 - 右側サービスパネルの横幅とレスポンシブ表示を修正
 - ZIP名とフォルダ名を統一
