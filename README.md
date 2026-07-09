@@ -26,3 +26,11 @@ Hero改善 / About追加 / Works 6件 / GitHubリンク / Skills / Flow / Price 
 - Hero上部と下部の余白を調整
 - 説明文の横幅を調整
 - 右側カードとのバランスを調整
+
+
+## v3.2 Hero Visual Fix
+- Hero見出しを指定どおり3行表示へ修正
+- Hero右側パネルをサービスカード形式へ変更
+- 青いHero部分の下余白を大きく追加
+- Hero下部に白いカーブを追加
+- ボタンに簡易アイコンを追加

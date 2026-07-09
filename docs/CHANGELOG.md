@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v3.2 Hero Visual Fix
+- 見出し3行表示、Hero下余白、右側パネルを修正
+
 ## v3.1 Hero Fix
 - 見出し改行とHero余白を調整
 
