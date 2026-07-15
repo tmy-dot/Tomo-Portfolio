@@ -1,24 +1,15 @@
-# Tomo Portfolio v4.1 Hero No Overlap
+# Tomo Portfolio v5.0 Sales
 
-■ 保存先
-Tomo-Studio/
-└── 30_PortfolioSite/
+保存先:
+Tomo-Studio/30_PortfolioSite/
 
-■ 上書き
-既存ポートフォリオサイトへ上書き
+既存ポートフォリオサイトへ上書きしてください。
 
-■ GitHub公開
-必要
-
-■ リポジトリ名
-Tomo-Portfolio
-
-■ 公開URL
-https://tmy-dot.github.io/Tomo-Portfolio/
-
-■ 修正内容
-- HTML/CSSをクリーンに再構築
-- 以前の競合CSSを完全排除
-- Heroの左見出しと右パネルが干渉しないよう設計
-- PCでは左760px、右500px、gap80pxで固定
-- 1220px未満は縦積みに切り替え
+主な更新:
+- メール・電話の直接問い合わせ
+- 料金範囲、ページ数、修正回数
+- 架空案件表示、想定課題、制作意図
+- 保守作業の具体化
+- 着手金50%・残金50%
+- 契約、テスト公開、引き渡し
+- ドメイン・サーバーは原則お客様名義
