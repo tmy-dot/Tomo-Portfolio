@@ -1,1 +1,1 @@
-const o=new IntersectionObserver(es=>es.forEach(e=>e.isIntersecting&&e.target.classList.add("show")),{threshold:.1});document.querySelectorAll("section,article,li").forEach(e=>o.observe(e));
+document.querySelectorAll("a[href^=\"#\"]").forEach(a=>a.addEventListener("click",e=>{}));
